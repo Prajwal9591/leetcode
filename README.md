@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Prajwal9591/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Prajwal9591/leetcode/tree/master/0344-reverse-string) |
+| [0459-repeated-substring-pattern](https://github.com/Prajwal9591/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prajwal9591/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Prajwal9591/leetcode/tree/master/0509-fibonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Prajwal9591/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
