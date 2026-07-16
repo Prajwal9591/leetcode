@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Prajwal9591/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Prajwal9591/leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Prajwal9591/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Prajwal9591/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Prajwal9591/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Prajwal9591/leetcode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Prajwal9591/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Prajwal9591/leetcode/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/Prajwal9591/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Prajwal9591/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/Prajwal9591/leetcode/tree/master/1051-height-checker) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prajwal9591/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Bit Manipulation
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Prajwal9591/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Prajwal9591/leetcode/tree/master/0231-power-of-two) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Prajwal9591/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
