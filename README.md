@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prajwal9591/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0682-baseball-game](https://github.com/Prajwal9591/leetcode/tree/master/0682-baseball-game) |
 | [1051-height-checker](https://github.com/Prajwal9591/leetcode/tree/master/1051-height-checker) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prajwal9591/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Prajwal9591/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prajwal9591/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,8 +87,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Prajwal9591/leetcode/tree/master/1051-height-checker) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prajwal9591/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Prajwal9591/leetcode/tree/master/1051-height-checker) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prajwal9591/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
