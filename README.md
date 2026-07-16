@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Prajwal9591/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Prajwal9591/leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Prajwal9591/leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Prajwal9591/leetcode/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/Prajwal9591/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Prajwal9591/leetcode/tree/master/0796-rotate-string) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Prajwal9591/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Prajwal9591/leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
