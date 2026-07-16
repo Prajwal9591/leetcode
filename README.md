@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prajwal9591/leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Prajwal9591/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Prajwal9591/leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Prajwal9591/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Prajwal9591/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Prajwal9591/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/Prajwal9591/leetcode/tree/master/1051-height-checker) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prajwal9591/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Prajwal9591/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
