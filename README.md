@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Prajwal9591/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Prajwal9591/leetcode/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/Prajwal9591/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Prajwal9591/leetcode/tree/master/0796-rotate-string) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Prajwal9591/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Prajwal9591/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
