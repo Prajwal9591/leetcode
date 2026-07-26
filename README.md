@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prajwal9591/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prajwal9591/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Prajwal9591/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Prajwal9591/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Prajwal9591/leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Prajwal9591/leetcode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal9591/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prajwal9591/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Prajwal9591/leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Prajwal9591/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Prajwal9591/leetcode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prajwal9591/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prajwal9591/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -104,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Prajwal9591/leetcode/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal9591/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Prajwal9591/leetcode/tree/master/1051-height-checker) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prajwal9591/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Prajwal9591/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prajwal9591/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/Prajwal9591/leetcode/tree/master/1051-height-checker) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prajwal9591/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
