@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Prajwal9591/leetcode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal9591/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Prajwal9591/leetcode/tree/master/1051-height-checker) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prajwal9591/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Prajwal9591/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
 |  |
