@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prajwal9591/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prajwal9591/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Prajwal9591/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Prajwal9591/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prajwal9591/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Prajwal9591/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Prajwal9591/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prajwal9591/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Prajwal9591/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prajwal9591/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Prajwal9591/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prajwal9591/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Prajwal9591/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Prajwal9591/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Prajwal9591/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prajwal9591/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Prajwal9591/leetcode/tree/master/0509-fibonacci-number) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Prajwal9591/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Prajwal9591/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prajwal9591/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Prajwal9591/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prajwal9591/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prajwal9591/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prajwal9591/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prajwal9591/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prajwal9591/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prajwal9591/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Prajwal9591/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prajwal9591/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal9591/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Prajwal9591/leetcode/tree/master/1051-height-checker) |
@@ -158,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Prajwal9591/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Prajwal9591/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Prajwal9591/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Prajwal9591/leetcode/tree/master/0342-power-of-four) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prajwal9591/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
