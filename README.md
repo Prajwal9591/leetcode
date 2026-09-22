@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Prajwal9591/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Prajwal9591/leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Prajwal9591/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Prajwal9591/leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prajwal9591/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Prajwal9591/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Prajwal9591/leetcode/tree/master/0136-single-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Prajwal9591/leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Prajwal9591/leetcode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prajwal9591/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Linked List
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prajwal9591/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Prajwal9591/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
