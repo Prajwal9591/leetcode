@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prajwal9591/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prajwal9591/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Prajwal9591/leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Prajwal9591/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Prajwal9591/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prajwal9591/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Prajwal9591/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prajwal9591/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Prajwal9591/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Prajwal9591/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prajwal9591/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Prajwal9591/leetcode/tree/master/0704-binary-search) |
